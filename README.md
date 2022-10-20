@@ -1,2 +1,3 @@
 # first-repo
-demo repo
+
+Demo repo for experiments.
